@@ -1,1 +1,2 @@
-# goodreads
+# Computerfriki
+http://computerfriki.com
